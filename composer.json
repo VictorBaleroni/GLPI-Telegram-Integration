@@ -1,0 +1,11 @@
+{
+    "name": "acer/telegramintegra",
+    "autoload": {
+        "psr-4": {
+            "GlpiPlugin\\TelegramIntegra\\": "src/"
+        }
+    },
+    "require": {
+        "telegram-bot/api": "^2.5"
+    }
+}

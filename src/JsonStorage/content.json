@@ -1,0 +1,13 @@
+{
+      "welcome" : "Olá! Seja bem-vindo(a) ao nosso canal de atendimento.👋\nComo posso ajudá-lo(a) hoje?",
+      "initBot" : "Por favor, selecione uma das opções acima!",
+      "nameTicket" : "De um titulo ao seu chamado:",
+      "nameTicketButton" : "Escolha uma das opções abaixo!",
+      "contentTicket" : "Descreva o problema para o tecnico!",
+      "contentTicketButton" : "Deseja concluir seu chamado?",
+      "returnToTicket" : "Olá de novo digite /start para começarmos.",
+      "levelTicket" : "Digite o nivel de urgencia!",
+      "contentNext" : "Ok, agora descreva sua solicitação:",
+      "finishTicket" : "Obrigado e até logo!",
+      "connSet" : "Bem vindo novamente digite /start para iniciar!"
+}

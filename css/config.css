@@ -1,0 +1,27 @@
+
+.selectable-item {
+    padding: 10px;
+    margin: 5px 0;
+    border: 2px solid #ddd;
+    cursor: pointer;
+    transition: all 0.3s;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.selectable-item:hover {
+    background-color: #f0f0f0;
+}
+
+.selected {
+    background-color: #007bff;
+    color: white;
+    border-color: #0056b3;
+}
+
+.selectable-item:has(input[type="radio"]:checked) {
+    background-color: #007bff;
+    color: white;
+    border-color: #0056b3;
+}
