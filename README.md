@@ -10,8 +10,9 @@ Essa integração cria uma ponte entre o sistema de chamados e o Telegram, permi
 
 # Como funciona
 
-Tradicionalmente, os chamados no **GLPI** estão limitados à interface web da plataforma ou ao envio de e-mails. Com o **GLPI Telegram Bridge**, os usuários podem interagir com o sistema de suporte diretamente pelo Telegram.
+Tradicionalmente, os chamados no **GLPI** estão limitados à interface web da plataforma ou ao envio de e-mails. Com o **GLPI-Telegram-Integration**, os usuários podem interagir com o sistema de suporte diretamente pelo Telegram.
 
 A integração funciona como um intermediário entre o **bot do Telegram** e a **API do GLPI**, permitindo que ações realizadas no chat sejam refletidas automaticamente no sistema de chamados.
+
 
 
